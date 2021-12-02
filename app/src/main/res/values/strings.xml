@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyFirstQuiz</string>
+    <string name="information1">Добро пожаловать в игру MyFirstQuiz! Суть игры заключается в том, чтобы за время ответить на ряд вопросов. За правильный ответ начисляется один балл. В игре 15 вопросов. На один вопрос четыре варианта для ответа. Один из которых правильный. На каждый вопрос отводится 15 секунд. Если заканчивается время, то программа переходит на следующий вопрос. В процессе игры можно воспользоваться три раза 50/50. Эта помощь позволяет сузить варианты для ответа в двое.</string>
+    <string name="information2">Для того чтобы приступить к игре создайте свое или выберите из уже существующих.</string>
+    <string name="information3">Ваше имя:</string>
+    <string name="name">Введите имя</string>
+    <string name="buttonStartTheGame">НАЧАТЬ ИГРУ</string>
+    <string name="buttonCreate">Создать</string>
+    <string name="buttonSelect">Выбрать</string>
+    <string name="buttonFinishTheGame">ЗАВЕРШИТЬ ИГРУ</string>
+    <string name="statistics">Посмотреть статистику</string>
+    <string name="save">Сохранить результат</string>
+    <string name="help">50/50</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
